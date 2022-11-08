@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graph_example/GraphCompose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/raramuri_v2/raramuri-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rebase_test/test-rebase" vcs="Git" />
+  </component>
+</project>
